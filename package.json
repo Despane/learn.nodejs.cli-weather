@@ -8,7 +8,7 @@
     "weather": "weather.js"
   },
   "scripts": {
-    "start": "node weather.js"
+    "start": "node weather1.js"
   },
   "author": "Despane",
   "license": "ISC",
